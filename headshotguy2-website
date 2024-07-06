@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Headshotguy2 - YouTube Channel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="path-to-your-image/Screenshot 2024-07-06 12.59.26 PM.png" alt="Headshotguy2">
+        <h1>Headshotguy2</h1>
+        <p>@Tahaplayerpro1 · 12 abonnés · 19 vidéos</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#videos">Videos</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="home">
+            <h2>Welcome to Headshotguy2's YouTube Channel</h2>
+            <p>Follow my channel for exciting gaming content, tips, and more!</p>
+        </section>
+        <section id="videos">
+            <h2>Latest Videos</h2>
+            <ul>
+                <li><a href="https://www.youtube.com/channel/your-channel-url">Video 1</a></li>
+                <li><a href="https://www.youtube.com/channel/your-channel-url">Video 2</a></li>
+                <li><a href="https://www.youtube.com/channel/your-channel-url">Video 3</a></li>
+            </ul>
+        </section>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Welcome to my channel! I'm passionate about gaming and love to share my experiences and tips with my audience. Stay tuned for more exciting content!</p>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Feel free to reach out to me on social media or via email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Headshotguy2. All rights reserved.</p>
+    </footer>
+</body>
+</html>
